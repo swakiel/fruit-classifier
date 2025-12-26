@@ -24,3 +24,7 @@ dist/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# Ignore datasets
+data/fruitnet/
+data/fruits360/
